@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         idTVQuestion.setText(question);
         etQuestion.setText("");
 
-        String apiKey = "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";//"YOUR_API_KEY";
+        String apiKey = "KEY";//"YOUR_API_KEY";
 
 
         String url = "https://api.openai.com/v1/engines/text-davinci-003/completions";
