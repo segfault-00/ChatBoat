@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">ChatBoat</string>
-    <string name="openai_api_key1">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</string>
 
-
-    <string name="openai_api_key">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</string>
 </resources>
